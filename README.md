@@ -1,1 +1,2 @@
-# Simulaci-n_
+# Simulación 
+Métdos de generación de números pseudoaleatorios (python)
